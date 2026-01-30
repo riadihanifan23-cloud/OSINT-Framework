@@ -32,9 +32,9 @@ For new resources, please ensure that the site is available for public and free 
 
 ```
 {
-  "name": "Example Name",
-  "type": "url",
-  "url": "http://example.com"
+  "name": "oky",
+  "type": "0895383741414",
+  "url": "https://location.com"
 }
 ```
 
